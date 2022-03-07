@@ -13,7 +13,7 @@ export const projects = [
     description:
       "Using LDAModel to detect the price of a room in a given location.",
     image: "./project-2.gif",
-    link: "https://github.com/techthumb1/airbnb-price-detector,
+    link: "https://github.com/techthumb1/airbnb-price-detector",
   },
   {
     title: "Twitoff",
