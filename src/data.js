@@ -33,31 +33,21 @@ export const projects = [
   },
 ];
 
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Reginald Hicks",
-    company: "Prixym",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Paul Nowazyck",
-    company: "shOUTer",
-  },
-];
-
 export const skills = [
   "Python",
-  "Machine Learning",
+  "Applied Machine Learning",
   "TensorFlow",
   "Flask",
+  "React",
   "SQL",
   "Scikit-Learn",
   "Docker",
   "Deep Learning",
-  "SAP BI"
+  "PyTorch",
+  "AWS",
+  "Google Cloud",
+  "NLP",
+  "OpenCV"
+  ""
+
 ];

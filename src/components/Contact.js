@@ -31,8 +31,8 @@ export default function Contact() {
       <div className="container px-5 py-10 mx-auto flex sm:flex-nowrap flex-wrap">
         <div className="lg:w-2/3 md:w-1/2 bg-gray-900 rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative">
           <iframe
-            width="100%"
-            height="100%"
+            width="80%"
+            height="80%"
             title="map"
             className="absolute inset-0"
             frameBorder={0}
@@ -47,7 +47,7 @@ export default function Contact() {
                 ADDRESS
               </h2>
               <p className="mt-1">
-                820 Langsford. <br />
+                1000 Drive <br />
                 Lee's Summit, MO 64063
               </p>
             </div>
@@ -74,8 +74,8 @@ export default function Contact() {
             Let's Build Together
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+            The way to learn and grow always works best when you are
+            working with a team.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
