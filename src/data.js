@@ -48,6 +48,5 @@ export const skills = [
   "Google Cloud",
   "NLP",
   "OpenCV"
-  ""
 
 ];
