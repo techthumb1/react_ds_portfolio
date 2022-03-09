@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Tesseract Hyperparameter Tuning",
     description:
       "A machine learning project that uses a genetic algorithm to optimize the hyperparameters of a custom Tesseract OCR model.",
-    image: "./image.png",
+    image: "./tessereact.gif",
     link: "https://github.com/BloomTech-Labs/scribble-stadium-ds",
   },
   {
@@ -12,24 +12,24 @@ export const projects = [
     subtitle: "Airbnb - NLP",
     description:
       "Using LDAModel to detect the price of a room in a given location.",
-    image: "./project-2.gif",
+    image: "./airbnb.gif",
     link: "https://github.com/techthumb1/airbnb-price-detector",
   },
   {
     title: "Twitoff",
     subtitle: "Twitoff-Dspt6",
     description:
-      "A Twitter machine learning model that predicts the probability of the tweet being from a specific user.",
-    image: "./project-3.gif",
+      "A Twitter machine learning model using predictive analysis in using the Twitter Api to predict the probability of a tweet being posted by specific user.",
+    image: "./twitoff.gif",
     link: "https://github.com/techthumb1/Twitoff-dspt6",
   },
   {
-    title: "RPT Generator",
-    subtitle: "Auto-Generated RPTs",
+    title: "Kickstarter Success", 
+    subtitle: "Kickstarter Campaign",
     description:
-      "A tool that generates research paper titles using a custom arxivscraper.",
-    image: "./project-4.gif",
-    link: "https://github.com/techthumb1/rpt_generator",
+      "Kickstarter campaign project that consists of analyzing the most prominent features that exist within successful campaigns to determine the positivity rate of a specific campaign genrating funds.",
+    image: "./kickstarter.gif",
+    link: "https://github.com/techthumb1/kickstarter_success",
   },
 ];
 
