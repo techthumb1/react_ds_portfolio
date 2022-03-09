@@ -74,8 +74,8 @@ export default function Contact() {
             Let's Build Together
           </h2>
           <p className="leading-relaxed mb-5">
-            The way to learn and grow always works best when you are
-            working with a team.
+            The way to learn and grow, always works best when you are
+            building with a team.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">

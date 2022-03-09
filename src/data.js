@@ -38,8 +38,8 @@ export const references = [
     quote:
       "Working with Jason was a great experience. He was very patient and was able to explain the concepts clearly and in a way that I could understand. He was also very helpful and was able to answer my questions. I would definitely recommend him to anyone looking for a junior data scientist.",
     image: "https://randomuser.me/api/portraits/men/25.jpg",
-    name: "Johnathan Flowers",
-    company: "Spairow",
+    name: "Devin Williams",
+    company: "QualT Metrics",
   },
   {
     quote:
