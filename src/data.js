@@ -4,7 +4,7 @@ export const projects = [
     subtitle: "Tesseract Hyperparameter Tuning",
     description:
       "A machine learning project that uses a genetic algorithm to optimize the hyperparameters of a custom Tesseract OCR model.",
-    image: "./tessereact.gif",
+    image: "./scribble.gif",
     link: "https://github.com/BloomTech-Labs/scribble-stadium-ds",
   },
   {
