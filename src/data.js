@@ -12,7 +12,7 @@ export const projects = [
     subtitle: "Airbnb - NLP",
     description:
       "Using LDAModel to detect the price of a room in a given location.",
-    image: "./airbnb.gif",
+    image: "./airbnb_2.gif",
     link: "https://github.com/techthumb1/airbnb-price-detector",
   },
   {
