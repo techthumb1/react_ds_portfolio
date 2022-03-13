@@ -18,7 +18,7 @@ export default function Projects() {
             member and individually. I've built statistical models, web 
             applications, and delivered deployments to the cloud. I've 
             worked with some of the most talented developers across the 
-            world, and I will continue to learn and grow as a developer.
+            world, and I will continue to learn and grow as a data scientist.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
