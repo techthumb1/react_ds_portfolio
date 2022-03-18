@@ -15,8 +15,8 @@ export default function App() {
       <About />
       <Projects />
       <Skills />
-      <Contact />
       <Blog />
+      <Contact />
     </main>
   );
 }
