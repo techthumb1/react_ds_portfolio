@@ -14,8 +14,8 @@ export default function Projects() {
             Projects I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here are some of the projects that I've worked on, as a team
-            member and individually. I've built statistical models, web 
+            Here are some of the projects that I've worked on individually 
+            and within a team. I've built statistical models, web 
             applications, and delivered deployments to the cloud. I've 
             worked with some of the most talented developers across the 
             world, and I will continue to learn and grow as a data scientist.
