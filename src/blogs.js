@@ -1,4 +1,4 @@
-export const projects = [
+export const blogs = [
     {
       title: "What Are The Top 5 States That Are Spending The Most Money",
       subtitle: "Personal Consumer Expenditures",
