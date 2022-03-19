@@ -2,7 +2,7 @@
 
 import { CodeIcon } from "@heroicons/react/solid";
 import React from "react";
-import { blog } from "../data";
+import { blogs } from "../blogs";
 
 export default function Blogs() {
   return (
