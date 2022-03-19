@@ -5,5 +5,6 @@ export const blogs = [
       description:
         "A brief examination of top areas within the U.S. that are spending the most money on consumer goods.",
       image: "./tesseract_cube.gif",
-      link: "https://medium.com/@robinsonjason761/what-are-the-top-5-states-that-are-spending-the-most-money-ad41d0ba6843",
-    }
+      link: "https://medium.com/@robinsonjason761/what-are-the-top-5-states-that-are-spending-the-most-money-ad41d0ba6843"
+    },
+]
