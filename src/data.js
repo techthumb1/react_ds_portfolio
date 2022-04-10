@@ -11,7 +11,7 @@ export const projects = [
     title: "Airbnb Price Detector",
     subtitle: "Airbnb - NLP",
     description:
-      "Incorporating a Latent Dirichlet Allocation model to detect the price of a room in a given location in NYC.",
+      "Incorporating a Latent Dirichlet Allocation model to detect the price of renting a room at a given location in NYC.",
     image: "./airbnb_2.gif",
     link: "https://github.com/techthumb1/airbnb-price-detector",
   },
