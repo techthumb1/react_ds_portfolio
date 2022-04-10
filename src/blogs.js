@@ -16,8 +16,8 @@ export const blogs = [
       link: "https://medium.com/@robinsonjason761/nlp-for-topic-modeling-with-a-lda-technique-1fe4bec4e4096-+920"
     },
     {
-      title: "An Analysis of Linear Regression",
-      subtitle: "An overview of linear regression for predictive analysis",
+      title: "An Analysis of Linear Regression for predictive analysis",
+      subtitle: "An overview of linear regression",
       description:
         "A brief analysis of predicting phone purchase costs over a 20-year period for each adult consumer.",
       image: "./coming_soon.png",
