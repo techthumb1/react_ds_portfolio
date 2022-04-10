@@ -9,7 +9,7 @@ export const blogs = [
     },
     {
       title: "NLP for Topic Modeling with a LDA Technique",
-      subtitle: "Latent Dirichlet Allocation derived from Gensim",
+      subtitle: "Latent Dirichlet Allocation with Gensim",
       description:
         "Using NLP to extract latent meaning from a corpus of text and then analyze the distributions.",
       image: "./topic.png",
@@ -25,7 +25,7 @@ export const blogs = [
     },
     {
       title: "Box-Jenkins ARIMA Method for Time Series Forecasting",
-      subtitle: "TSA for Consumer Price Index from 2011-2021",
+      subtitle: "TSA for Consumer Price Index",
       description:
         "The Box-Jenkins ARIMA method is examined when applying on CPI time series covering 2011 - 2021.",
       image: "./coming_soon.png",
