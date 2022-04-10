@@ -27,7 +27,7 @@ export const blogs = [
       title: "Box-Jenkins ARIMA Method for Time Series Forecasting",
       subtitle: "TSA for Consumer Price Index from 2011-2021",
       description:
-        "The Box-Jenkins ARIMA method is examined when applying on CPI time series covering the perod 2011 - 2021.",
+        "The Box-Jenkins ARIMA method is examined when applying on CPI time series covering 2011 - 2021.",
       image: "./coming_soon.png",
       link: "https://medium.com"
     }
