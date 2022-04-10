@@ -9,7 +9,7 @@ export const blogs = [
     },
     {
       title: "NLP for Topic Modeling with a LDA Technique",
-      subtitle: "Latent Dirichlet Allocation with Gensim",
+      subtitle: "LDA with Gensim",
       description:
         "Using NLP to extract latent meaning from a corpus of text and then analyze the distributions.",
       image: "./topic.png",
