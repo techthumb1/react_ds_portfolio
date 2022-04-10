@@ -7,4 +7,12 @@ export const blogs = [
       image: "./pce.png",
       link: "https://medium.com/@robinsonjason761/what-are-the-top-5-states-that-are-spending-the-most-money-ad41d0ba6843"
     },
+    {
+      title: "NLP for Topic Modeling with a LDA Technique",
+      subtitle: "Latent Dirichlet Allocation",
+      description:
+        "Using Natural Language Processing to extract latent meaning from a corpus of text and then analyze the distributions.",
+      image: "./topic.png",
+      link: "https://medium.com/@robinsonjason761/nlp-for-topic-modeling-with-a-lda-technique-1fe4bec4e4096-+920",
+    },
 ]
