@@ -46,8 +46,10 @@ export const skills = [
   "Deep Learning",
   "PyTorch",
   "AWS",
-  "Google Cloud",
+  "Data Visualization",
   "NLP",
-  "OpenCV"
+  "Computer Vision",
+  "Data Architecture",
+  "Forecasting"
 
 ];
