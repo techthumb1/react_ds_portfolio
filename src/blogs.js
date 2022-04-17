@@ -13,7 +13,7 @@ export const blogs = [
       description:
         "Using NLP to extract latent meaning from a corpus of text and then analyze the distributions.",
       image: "./topic.png",
-      link: "https://medium.com/@robinsonjason761/nlp-for-topic-modeling-with-a-lda-technique-1fe4bec4e4096-+920"
+      link: "https://medium.com/@robinsonjason761/nlp-for-topic-modeling-with-a-lda-technique-1fe4bec4e40"
     },
     {
       title: "An Analysis of Linear Regression for Predictive Analysis",
