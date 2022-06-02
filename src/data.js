@@ -19,7 +19,7 @@ export const projects = [
     title: "Twitoff",
     subtitle: "Twitoff-Ds",
     description:
-      "A Twitter machine learning model using predictive analysis in using the Twitter Api to predict the probability related to a user's tweet.",
+      "A Twitter machine learning model using predictive analysis in using the Twitter API to predict the probability related to a user's tweet.",
     image: "./twitoff.gif",
     link: "https://github.com/techthumb1/Twitoff-dspt6",
   },
