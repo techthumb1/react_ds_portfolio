@@ -12,8 +12,8 @@ export default function About() {
             <br className="hidden lg:inline-block" /> I enjoy building structured and insightful models.
           </h1>
           <p className="mb-8 leading-relaxed">
-           I thrive in my ability to take complex problems and turn them into efficient,
-          sustainable solutions, through data analysis, data visualizations,
+          I thrive in my ability to take complex problems and turn them into efficient,
+          sustainable solutions, through data analysis, data visualizations, machine learning, 
           model development, testing, and deployment.
           </p>
           <div className="flex justify-center">
