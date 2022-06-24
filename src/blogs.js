@@ -16,18 +16,17 @@ export const blogs = [
       link: "https://medium.com/@robinsonjason761/nlp-for-topic-modeling-with-a-lda-technique-1fe4bec4e40"
     },
     {
-      title: "An Analysis of Linear Regression for Predictive Analysis",
-      subtitle: "An Overview of Linear Regression",
+      title: "My Data Science Journey…So Far",
+      subtitle: "Part 1 of the five part series: The Introduction",
       description:
-        "A brief analysis of predicting phone purchase costs over a 20-year period for each adult consumer.",
-      image: "./coming_soon.png",
-      link: "https://medium.com"
-    },
+        "First of a five part series covering much of what I learned throughout my Data Science journey.",
+      image: "./mountain.png",
+      link: "https://medium.com/@robinsonjason761/my-data-science-journey-so-far-945dbab0fd62"
     {
-      title: "Box-Jenkins ARIMA Method for Time Series Forecasting",
+      title: "ARIMA Method for Time Series Forecasting",
       subtitle: "TSA for Consumer Price Index",
       description:
-        "The Box-Jenkins ARIMA method is examined when applying on CPI time series covering 2011 - 2021.",
+        "The ARIMA method is examined when applying on CPI time series covering 2011 - 2021.",
       image: "./coming_soon.png",
       link: "https://medium.com"
     }
