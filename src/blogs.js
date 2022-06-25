@@ -17,7 +17,7 @@ export const blogs = [
     },
     {
       title: "My Data Science Journey…So Far",
-      subtitle: "Part 1 of the five part series: The Introduction",
+      subtitle: "Part 1 of the Five Part Series: The Introduction",
       description:
         "First of a five part series covering much of what I learned throughout my Data Science journey.",
       image: "./mountain.png",
