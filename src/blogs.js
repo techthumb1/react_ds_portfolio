@@ -22,6 +22,7 @@ export const blogs = [
         "First of a five part series covering much of what I learned throughout my Data Science journey.",
       image: "./mountain.png",
       link: "https://medium.com/@robinsonjason761/my-data-science-journey-so-far-945dbab0fd62"
+    },
     {
       title: "ARIMA Method for Time Series Forecasting",
       subtitle: "TSA for Consumer Price Index",
