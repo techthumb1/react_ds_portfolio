@@ -17,11 +17,11 @@ export const projects = [
   },
   {
     title: "Twitoff",
-    subtitle: "Twitoff-Ds",
+    subtitle: "Twitoff-DS",
     description:
       "A Twitter machine learning model using predictive analysis in using the Twitter API to predict the probability related to a user's tweet.",
     image: "./twitoff.gif",
-    link: "https://github.com/techthumb1/Twitoff-dspt6",
+    link: "https://github.com/techthumb1/twitoff-pt",
   },
   {
     title: "Kickstarter Success", 
@@ -41,6 +41,8 @@ export const skills = [
   "Flask",
   "React",
   "SQL",
+  "Tableau",
+  "PowerBI",
   "Scikit-Learn",
   "Docker",
   "Deep Learning",
@@ -48,7 +50,7 @@ export const skills = [
   "AWS",
   "Data Visualization",
   "NLP",
-  "Computer Vision",
+  "Google Cloud",
   "Data Architecture",
   "Forecasting"
 
