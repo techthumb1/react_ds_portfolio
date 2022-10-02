@@ -25,10 +25,10 @@ export const blogs = [
     },
     {
       title: "ARIMA Method for Time Series Forecasting",
-      subtitle: "TSA for Consumer Price Index",
+      subtitle: "ARIMA Model for 10-year US Bond Yield Rates",
       description:
-        "The ARIMA method is examined when applying on CPI time series covering 2011 - 2021.",
-      image: "./coming_soon.png",
-      link: "https://medium.com"
+        "The ARIMA method is examined when applying on bond rate yield time series from 2011 - 2021.",
+      image: "./forecasting.png",
+      link: "https://medium.com/@robinsonjason761/arima-method-for-time-series-forecasting-185b85539a38"
     }
 ]
