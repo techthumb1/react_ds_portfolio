@@ -75,7 +75,7 @@ export default function Contact() {
           </h2>
           <p className="leading-relaxed mb-5">
             Problems in life are always challenging, but with a strong team, solutions can be 
-            achieved much faster. The way to learn, grow, create always works best when you are
+            achieved much faster. The way to learn, grow, and create always works best when you are
             building with a team.
           </p>
           <div className="relative mb-4">
