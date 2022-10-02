@@ -41,6 +41,8 @@ export const skills = [
   "Flask",
   "React",
   "SQL",
+  "Data Analysis",
+  "Data Engineering",
   "Tableau",
   "PowerBI",
   "Scikit-Learn",
