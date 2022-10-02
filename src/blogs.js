@@ -24,7 +24,7 @@ export const blogs = [
       link: "https://medium.com/@robinsonjason761/my-data-science-journey-so-far-945dbab0fd62"
     },
     {
-      title: "ARIMA Method for Time Series Forecasting",
+      title: "Time Series Forecasting",
       subtitle: "ARIMA Model for 10-year US Bond Yield Rates",
       description:
         "The ARIMA method is examined when applying on bond rate yield time series from 2011 - 2021.",
