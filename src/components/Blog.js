@@ -15,7 +15,7 @@ export default function Blogs() {
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
             Here are some of the posts that I have published. Primarily
-            covering Python, Machine Learning, and Data Science.(More coming soon)
+            covering Python, Machine Learning, and Data Science.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
